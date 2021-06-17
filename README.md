@@ -1,5 +1,4 @@
 # Surfs_up 
-###### SQL lite, SQLAlchemy & Flask
 
 
 <p align="left">
