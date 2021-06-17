@@ -1,6 +1,4 @@
-# Surfs_up 
-
-
+# Surfs Up 
 <p align="left">
 <img src="https://user-images.githubusercontent.com/81998045/122332515-83069e80-cf04-11eb-9ef3-c83644c504b8.png"width="250" />
 </p>
@@ -22,6 +20,7 @@ The tables below show the summary statistics for June & December temperatures.
   - Key Observations:
       - The average tempertures in the month of June are close to the average temperartures in December proving a warm environment all year round.
       - The max temperatures in both June and December are also close with an average max temperature of 85° in June and 83° in December
-      - With similar max temperatures and min temperatures of 64° in June & only 56° in December, our weather analysis supports that Hawaii temperatures are ideal for surfing and ice cream throughout the year.
+      - With similar max temperatures and min temperatures of 64° in June & only 56° in December, although it is cooler in December its still warm for surfing. 
 
-
+### Conclusion
+Our weather analysis supports that Hawaii temperatures are ideal for surfing and ice cream throughout the year.
